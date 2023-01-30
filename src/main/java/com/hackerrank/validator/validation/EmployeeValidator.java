@@ -1,6 +1,6 @@
-package com.hackerrank.validator.validation;
+package com.example.validator.validation;
 
-import com.hackerrank.validator.model.Employee;
+import com.example.validator.model.Employee;
 import org.apache.commons.validator.GenericValidator;
 import org.springframework.validation.Errors;
 import org.springframework.validation.Validator;

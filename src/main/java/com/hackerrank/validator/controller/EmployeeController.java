@@ -1,9 +1,9 @@
-package com.hackerrank.validator.controller;
+package com.example.validator.controller;
 
-import com.hackerrank.validator.model.Employee;
-import com.hackerrank.validator.repository.EmployeeRepository;
-import com.hackerrank.validator.validation.EmployeeValidator;
-import com.hackerrank.validator.validation.FieldValidationMessage;
+import com.example.validator.model.Employee;
+import com.example.validator.repository.EmployeeRepository;
+import com.example.validator.validation.EmployeeValidator;
+import com.example.validator.validation.FieldValidationMessage;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.http.HttpStatus;
 import org.springframework.http.MediaType;

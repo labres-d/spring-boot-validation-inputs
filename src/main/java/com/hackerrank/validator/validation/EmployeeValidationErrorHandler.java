@@ -1,4 +1,4 @@
-package com.hackerrank.validator.validation;
+package com.example.validator.validation;
 
 import org.springframework.http.HttpHeaders;
 import org.springframework.http.HttpStatus;

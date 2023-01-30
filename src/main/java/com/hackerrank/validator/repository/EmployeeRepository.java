@@ -1,6 +1,6 @@
-package com.hackerrank.validator.repository;
+package com.example.validator.repository;
 
-import com.hackerrank.validator.model.Employee;
+import com.example.validator.model.Employee;
 import org.springframework.data.jpa.repository.JpaRepository;
 import org.springframework.stereotype.Repository;
 

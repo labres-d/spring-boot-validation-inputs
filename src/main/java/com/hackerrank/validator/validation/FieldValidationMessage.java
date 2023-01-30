@@ -1,4 +1,4 @@
-package com.hackerrank.validator.validation;
+package com.example.validator.validation;
 
 public class FieldValidationMessage {
     private String message;
